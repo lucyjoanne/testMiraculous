@@ -1,0 +1,261 @@
+body{
+	padding:10px;
+	background-image:url(../images/spot.jpeg);
+	background-position:fixed;
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-attachment:fixed;
+	
+
+}
+.header{
+	padding:10px;
+	background-image:url(../images/spot.jpeg);
+	border-radius:20px;
+	font-family:forte;
+}
+
+.1{
+	margin:10px 5px;
+	height:90px;
+	width:300px;
+}
+
+.logo{
+	margin:10px 5px;
+	height:60px;
+}
+
+.menu{
+	float:right;
+	list-style:none;
+	margin:20px;
+}
+
+.menu li{
+	display:inline-block;
+	margin:10px 5px;
+}
+
+.menu li a{
+	text-decoration:forte;
+	color:black;
+	padding:5px 10px;
+	font-family:sans-serif;
+	letter-spacing:2px;
+	border-bottom:1px solid #fff;
+	margin:10px;
+}
+
+.menu li a: hover{
+	background:coral;
+	border:1px solid coral;
+	transition:4s;
+}
+
+.msg{
+	position:relative;
+	text-align:center;
+	font-family:sans-serif;
+	color:#fff;
+	top:20px;
+}
+
+.btn{
+	font-size:36px;
+	color:#fff;
+	letter-spacing:2px;
+	margin:5px;
+	padding:7px 25px;
+	text-decoration:none;
+	border:1px solid blue;
+	border-radius:25px;
+}
+
+.btn1:hover{
+	background:coral;
+	color:#fff;
+}
+
+.cover{
+	padding:400px;
+	background-image:url(../images/miraculous.jpg);
+	background-position:fixed;
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-attachment:fixed;
+	border-radius:40px;
+}
+.break{
+	text-align:center;
+	background-image:url(../images/info.jpg);
+	background-position:fixed;
+	background-repeat:no-repeat;
+	background-size:cover;
+	border-radius:30px;
+	color:white;
+}
+.super1{
+	text-align:center;
+	display:grid;
+	grid-row:1fr;
+	grid-gap:5px;
+	grid-template-columns:  1fr 1fr;
+	background:white;
+	color:black;
+	margin-bottom:5px solid black;
+	margin:10px;
+}
+
+.bug{
+	padding:20px;
+	background:#ff2913;
+	font-family:forte;
+	font-size:30px;
+	color:white;
+	border-radius:20px;
+}
+.bug:hover{
+	background: #fe8ddd;
+	color: black;
+}
+
+.cat{
+	padding:20px;
+	background:black;
+	font-family:forte;
+	font-size:30px;
+	color:white;
+	border-radius:20px;
+}
+.cat:hover{
+	background: grey;
+	color: black;
+}
+
+.super2{
+	text-align:center;
+	display:grid;
+	grid-row:1fr;
+	grid-gap:5px;
+	grid-template-columns: 1fr 1fr 1fr;
+	background:white;
+	color:black;
+	margin-bottom:5px solid black;
+	margin:10px;
+}
+.fox{
+	padding:20px;
+	background:orange;
+	font-family:forte;
+	font-size:30px;
+	color:black;
+	border-radius:20px;
+}
+.fox:hover{
+	background:brown;
+	color: white;
+}
+.turtle{
+	padding:20px;
+	background:green;
+	font-family:forte;
+	font-size:30px;
+	color: black;
+	border-radius:20px;
+}
+
+.turtle:hover{
+	background: blue;
+	color: white;
+}
+
+.bee{
+	padding:20px;
+	background:yellow;
+	font-family:forte;
+	font-size:30px;
+	border-radius:20px;
+	
+}
+.bee:hover{
+	background: gold;
+	color: white;
+}
+.showcase{
+	padding:300px;
+	background-image:url(../images/noir.gif);
+	background-position:fixed;
+	background-repeat:no-repeat;
+	background-size:cover;
+	text-align:center;
+	font-family: forte;
+	color:white;
+	font-size:100px;
+	border-radius:30px;
+	background-attachment:fixed;
+	
+}
+
+.news{
+	text-align:center;
+	display:grid;
+	grid-row:1fr;
+	grid-gap:5px;
+	grid-template-columns: 1fr 1fr 1fr;
+	background:white;
+	color:black;
+	margin-bottom:5px solid black;
+	margin:10px;
+}
+.container{
+	padding:20px;
+	background:red;
+	font-family:forte;
+	font-style:center;
+	border-radius:20px;
+}
+.container:hover{
+	background: black;
+	color:white;
+}
+.container2{
+	padding:20px;
+	background:black;
+	font-family:forte;
+	font-style:center;
+	color:white;
+	border-radius:20px;
+}
+.container2:hover{
+	background: red;
+	color:black;
+}
+.container3{
+	padding:20px;
+	background:red;
+	font-family:forte;
+	font-style:center;
+	color:black;
+	border-radius:20px;
+}
+.container3:hover{
+	background:black;
+	color:white;
+}
+.footer{
+	padding:300px;
+	background-image:url(../images/catalys.jpg);
+	background-attachment:fixed;
+	background-repeat:no-repeat;
+	background-size:cover;
+	font-family:forte;
+	font-style:left;
+	color:black;
+	font-size:50px;
+}
+
+.footer h3{
+ text-align:left;
+ 
+}

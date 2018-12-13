@@ -1,0 +1,301 @@
+body{
+	padding:10px;
+	background-image:url(../images/spot.jpeg);
+	background-position:top;
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-attachment:top;
+	
+
+}
+.header{
+	padding:10px;
+	background-image:url(../images/spot.jpeg);
+	border-radius:20px;
+	font-family:forte;
+	font-size:20px;
+	font-style:center;
+}
+h1{
+	text-align:center;
+	font-size:70px;
+	color: #fff;
+	
+}
+
+.1{
+	margin:10px 5px;
+	height:90px;
+	width:300px;
+	text-align:left;
+}
+
+
+
+.cover{
+	padding:400px;
+	background-image:url(../images/miraculous.jpg);
+	background-position:fixed;
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-attachment:fixed;
+	border-radius:40px;
+}
+.break{
+	text-align:center;
+	background-image:url(../images/info.jpg);
+	background-position:fixed;
+	background-repeat:no-repeat;
+	background-size:cover;
+	border-radius:30px;
+	color:white;
+	font-family:forte;
+}
+.super1{
+	text-align:center;
+	display:grid;
+	grid-row:1fr;
+	grid-gap:5px;
+	grid-template-columns:  1fr 1fr;
+	background:white;
+	color:black;
+	margin-bottom:5px solid black;
+	margin:10px;
+}
+
+.bug{
+	padding:20px;
+	background:#ff2913;
+	font-family:forte;
+	font-size:30px;
+	color:white;
+	border-radius:20px;
+}
+.bug:hover{
+	background: #fe8ddd;
+	color: black;
+}
+
+.cat{
+	padding:20px;
+	background:black;
+	font-family:forte;
+	font-size:30px;
+	color:white;
+	border-radius:20px;
+}
+.cat:hover{
+	background: grey;
+	color: black;
+}
+
+.super2{
+	text-align:center;
+	display:grid;
+	grid-row:1fr;
+	grid-gap:5px;
+	grid-template-columns: 1fr 1fr 1fr;
+	background:white;
+	color:black;
+	margin-bottom:5px solid black;
+	margin:10px;
+}
+.fox{
+	padding:20px;
+	background:orange;
+	font-family:forte;
+	font-size:30px;
+	color:black;
+	border-radius:20px;
+}
+.fox:hover{
+	background:brown;
+	color: white;
+}
+.turtle{
+	padding:20px;
+	background:green;
+	font-family:forte;
+	font-size:30px;
+	color: black;
+	border-radius:20px;
+}
+
+.turtle:hover{
+	background: blue;
+	color: white;
+}
+
+.bee{
+	padding:20px;
+	background:yellow;
+	font-family:forte;
+	font-size:30px;
+	border-radius:20px;
+	
+}
+.bee:hover{
+	background: gold;
+	color: white;
+}
+.showcase{
+	padding:300px;
+	background-image:url(../images/noir.gif);
+	background-position:fixed;
+	background-repeat:no-repeat;
+	background-size:cover;
+	text-align:center;
+	font-family: forte;
+	color:white;
+	font-size:100px;
+	border-radius:30px;
+	background-attachment:fixed;
+	
+}
+
+.news{
+	text-align:center;
+	display:grid;
+	grid-row:1fr;
+	grid-gap:5px;
+	grid-template-columns: 1fr 1fr 1fr;
+	background:white;
+	color:black;
+	margin-bottom:5px solid black;
+	margin:10px;
+}
+.container{
+	padding:20px;
+	background:red;
+	font-family:forte;
+	font-style:center;
+	border-radius:20px;
+	font-size:30px;
+}
+.container:hover{
+	background: black;
+	color:white;
+}
+.container2{
+	padding:20px;
+	background:black;
+	font-family:forte;
+	font-style:center;
+	color:white;
+	border-radius:20px;
+	font-size:30px;
+}
+.container2:hover{
+	background: red;
+	color:black;
+}
+.container3{
+	padding:20px;
+	background:red;
+	font-family:forte;
+	font-style:center;
+	color:black;
+	border-radius:20px;
+	font-size:30px;
+}
+.container3:hover{
+	background:black;
+	color:white;
+}
+.footer{
+	padding:400px;
+	background-image:url(../images/last3.gif);
+	background-attachment:fixed;
+	background-repeat:no-repeat;
+	background-size:cover;
+	font-family:forte;
+	font-style:left;
+	color:black;
+	font-size:50px;
+}
+
+.footer h3{
+ text-align:center;
+ font-size:100px;
+ 
+}
+.news2{
+	text-align:center;
+	display:grid;
+	grid-row:1fr;
+	grid-gap:5px;
+	grid-template-columns: 1fr 1fr 1fr;
+	background:white;
+	color:black;
+	margin-bottom:5px solid black;
+	margin:10px;
+}
+.containerr{
+	padding:20px;
+	background:red;
+	font-family:forte;
+	font-style:center;
+	border-radius:20px;
+	font-size:30px;
+}
+.containerr:hover{
+	background: black;
+	color:white;
+}
+.containerr2{
+	padding:20px;
+	background:black;
+	font-family:forte;
+	font-style:center;
+	color:white;
+	border-radius:20px;
+	font-size:30px;
+}
+.containerr2:hover{
+	background: red;
+	color:black;
+}
+.containerr3{
+	padding:20px;
+	background:red;
+	font-family:forte;
+	font-style:center;
+	color:black;
+	border-radius:20px;
+	font-size:30px;
+}
+.containerr3:hover{
+	background:black;
+	color:white;
+}
+.footer2{
+	padding:300px;
+	background-image:url(../images/pound.png);
+	background-attachment:fixed;
+	background-repeat:no-repeat;
+	background-size:cover;
+	color:white;
+	text-align:center;
+	font-size:30px;
+	font-family:forte;
+}
+.break2{
+	text-align:center;
+	background-image:url(../images/background2.png);
+	background-position:fixed;
+	background-repeat:no-repeat;
+	background-size:cover;
+	border-radius:30px;
+	color:black;
+	font-family:forte;
+}
+.break3{
+	font-family:forte;
+	text-align:center;
+	background-image:url(../images/love.jpeg);
+	background-position:fixed;
+	background-repeat:no-repeat;
+	background-size:cover;
+	border-radius:30px;
+	
+}
